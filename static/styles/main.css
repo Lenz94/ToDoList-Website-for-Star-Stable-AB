@@ -1,0 +1,75 @@
+body {
+  padding-top: 20px;
+  background: url('../images/star-stable-poster.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  backgroundi-size: cover;
+  color: #E3DFDF;
+  font-size: 20px;
+  text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.horse {
+   width: 50px;
+   height: 50px;
+}
+
+.note{
+    border-color: #EC548D !important;
+}
+
+.notehead {
+    background-color: #ffffff !important;
+    color: #EC548D !important;
+}
+
+.notebody {
+    background-color: #EC548D !important;
+}
+
+.noteInput{
+    background-color: #EC548D;
+    border: none;
+    color: white;
+    width: 30%;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    outline: none;
+    font-size: 20px;
+    cursor: pointer; cursor: hand;
+}
+
+.noteInput2{
+    width: 60%;
+    cursor: pointer; cursor: hand;
+}
+
+.icon, .checkingbox {
+    cursor: pointer; cursor: hand;
+}
+
+.icon:hover, .icon:focus, {
+  -moz-box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-box-shadow: 10px 10px 7px rgba(0,0,0,.7);
+  box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -o-transform: scale(1.25);
+  position:relative;
+  z-index:5;
+}
+
+.noteInput:hover, .noteInput:focus{
+    -moz-box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-box-shadow: 10px 10px 7px rgba(0,0,0,.7);
+  box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -o-transform: scale(1.25);
+  position:relative;
+  z-index:5;
+}
