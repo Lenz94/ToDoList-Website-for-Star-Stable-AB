@@ -1,4 +1,4 @@
-# Front-End-for-Star-Stable-AB
+# ToDoList Website for Star Stable AB
 
 ![alt tag](https://raw.github.com/Lenz94/Front-End-for-Star-Stable-AB/master/screenshots/screenshot.png)
 
